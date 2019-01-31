@@ -8,3 +8,5 @@ https://petrus-v.gitbooks.io/git-workshop/content/fr/)
 * Pierre Verkest <pverkest@anybox.fr>
 
 toto
+test 1
+test 2
